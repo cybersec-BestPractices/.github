@@ -1,8 +1,11 @@
-## CyberSecurity Best Practices
+# CyberSecurity Best Practices
 
 Welcome!
+
 This repository aims to present and describe best practices and recommendations
 aimed at users to enhance cybersecurity practices and enable secure operations.
+
+
 
 <!--
 
